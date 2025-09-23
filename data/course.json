@@ -1,0 +1,52 @@
+{
+  "term": "Fall",
+  "year": "2005",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Health and Medicine",
+      "Pathology and Pathophysiology"
+    ],
+    [
+      "Health and Medicine",
+      "Cancer"
+    ],
+    [
+      "Engineering",
+      "Chemical Engineering",
+      "Transport Processes"
+    ]
+  ],
+  "legacy_uid": "e81f4d2e-623e-c82d-2dbb-9860c7c4b0e7",
+  "instructors": {
+    "content": [
+      "f293b267-7f3a-7556-ad4e-298e47796685"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "08fd50a4-d2cf-0547-9bed-a0377b5ec497",
+    "website": "hst-525j-tumor-pathophysiology-and-transport-phenomena-fall-2005"
+  },
+  "course_title": "Tumor Pathophysiology and Transport Phenomena",
+  "course_description": "Tumor pathophysiology plays a central role in the growth, invasion, metastasis and treatment of solid tumors. This class applies principles of transport phenomena to develop a systems-level, quantitative understanding of angiogenesis, blood flow and microcirculation, metabolism and microenvironment, transport and binding of small and large molecules, movement of cancer and immune cells, metastatic process, and treatment response.\u00a0\n\n**Additional Faculty**\u00a0\n\nDr. Pat D'Amore\n\nDr. Dan Duda\n\nDr. Robert Langer\n\nProf. Robert Weinberg\n\nDr. Marsha Moses\n\nDr. Raghu Kalluri\n\nDr. Lance Munn",
+  "department_numbers": [
+    "HST",
+    "10"
+  ],
+  "extra_course_numbers": "10.548J",
+  "primary_course_number": "HST.525J",
+  "course_image_thumbnail": {
+    "content": "7b4ddb1a-93cb-afff-be68-d93e5bd82988",
+    "website": "hst-525j-tumor-pathophysiology-and-transport-phenomena-fall-2005"
+  },
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "site_uid": "532f6aea-e750-4450-bf3d-ccd8d1813dda",
+  "site_short_id": "hst.525j-fall-2005",
+  "site_url_path": "courses/hst-525j-tumor-pathophysiology-and-transport-phenomena-fall-2005",
+  "title": "Course Metadata"
+}

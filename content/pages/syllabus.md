@@ -2,6 +2,8 @@
 content_type: page
 description: The syllabus section contains an overview and list of materials for the
   course and a guide to the instructor?s evaluation of case write-ups.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

@@ -31,6 +31,7 @@
     "website": "hst-525j-tumor-pathophysiology-and-transport-phenomena-fall-2005"
   },
   "course_title": "Tumor Pathophysiology and Transport Phenomena",
+  "hide_download": true,
   "course_description": "Tumor pathophysiology plays a central role in the growth, invasion, metastasis and treatment of solid tumors. This class applies principles of transport phenomena to develop a systems-level, quantitative understanding of angiogenesis, blood flow and microcirculation, metabolism and microenvironment, transport and binding of small and large molecules, movement of cancer and immune cells, metastatic process, and treatment response.\u00a0\n\n**Additional Faculty**\u00a0\n\nDr. Pat D'Amore\n\nDr. Dan Duda\n\nDr. Robert Langer\n\nProf. Robert Weinberg\n\nDr. Marsha Moses\n\nDr. Raghu Kalluri\n\nDr. Lance Munn",
   "department_numbers": [
     "HST",
@@ -42,6 +43,7 @@
     "content": "7b4ddb1a-93cb-afff-be68-d93e5bd82988",
     "website": "hst-525j-tumor-pathophysiology-and-transport-phenomena-fall-2005"
   },
+  "hide_download_original": null,
   "learning_resource_types": [
     "Lecture Notes"
   ],

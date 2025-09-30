@@ -5,6 +5,8 @@ description: This resource contains information on topics interstitial and lymph
 file: /courses/hst-525j-tumor-pathophysiology-and-transport-phenomena-fall-2005/37636b2d013d3acf7302e8f0ca17972b_02a_jain.pdf
 file_size: 4593246
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

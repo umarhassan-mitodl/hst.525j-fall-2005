@@ -6,6 +6,8 @@ description: This resource contains information on topics engineered embryonic E
 file: /courses/hst-525j-tumor-pathophysiology-and-transport-phenomena-fall-2005/21ba42db35a413805229a17b70ff0fb6_04b_duda.pdf
 file_size: 592296
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

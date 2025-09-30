@@ -5,6 +5,8 @@ description: This resource contains information on topics vascular normalization
 file: /courses/hst-525j-tumor-pathophysiology-and-transport-phenomena-fall-2005/11276fe5f623f619ec5844bc870689a0_02b_jain.pdf
 file_size: 2990775
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

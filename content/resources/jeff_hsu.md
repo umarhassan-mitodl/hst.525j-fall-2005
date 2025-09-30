@@ -4,6 +4,8 @@ description: This resource is a term paper.
 file: /courses/hst-525j-tumor-pathophysiology-and-transport-phenomena-fall-2005/562e58977231af6860bcae8a15dc701b_jeff_hsu.pdf
 file_size: 338201
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

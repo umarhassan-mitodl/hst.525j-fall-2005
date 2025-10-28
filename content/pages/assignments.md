@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: A complete set of problem statements along with their solutions.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
